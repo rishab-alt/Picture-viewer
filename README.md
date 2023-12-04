@@ -1,4 +1,4 @@
-# Picutre-viewer
+# Picture-viewer
 
 you will need to have some sort of visual basics compiler to run this as i havnt compiled it into a program .exe file 
 
